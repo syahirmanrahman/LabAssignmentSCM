@@ -11,3 +11,5 @@ jom balikk!!!
 testing2..
 
 thor ragnarok maghii
+
+edit teruss kat master trial
