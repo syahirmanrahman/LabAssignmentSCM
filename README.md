@@ -8,3 +8,6 @@ amir duduk lama ump
 
 jom balikk!!!
 
+testing2..
+
+thor ragnarok maghii
