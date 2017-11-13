@@ -1,5 +1,3 @@
 # LabAssignmentSCM
 
-lia
-
-lllllllll
+Try to Implement Source Code Management 
